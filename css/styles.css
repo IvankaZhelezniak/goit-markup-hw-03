@@ -213,13 +213,14 @@ body {
   margin-right: 30px;
 }
 /* Команда  commands */
+
 .section {
   padding-top: 94px;
-  margin-bottom: 94px;
+  padding-bottom: 94px;
 }
 
 .section-feature {
-  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .command {
